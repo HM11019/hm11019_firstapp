@@ -30,7 +30,7 @@ public class PruebaFragment extends Fragment {
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
         mViewModel = new ViewModelProvider(this).get(PruebaViewModel.class);
-        // TODO: Use the ViewModelsdfadfbgfdcbvv
+        // TODO: Use the ViewModelsdfadfbgfdcbvvdgbdfghdfgh
     }
 
 }
